@@ -1,0 +1,3 @@
+print("ik ben een 18 jarige jongeman, die hier op school nog heel veel leren kan.\n Nikay is hoe ik heet, en op het rugbyveld werk ik mij graag in het zweet. Hoorn is de plaats waar ik woon en leef, en waar ik menig uurtje op het rugbyveld beleef.")
+print("Battlefield is een spel wat ik graag speel, maar ook rugby18 is een spel waardoor ik mij niet verveel.")
+print ("Kortom gamen en rugby is een groot deel van mijn leven, en ik hoop dat de MA mij op gamegebied extra input kan geven.")  
